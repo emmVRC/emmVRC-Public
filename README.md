@@ -21,4 +21,3 @@ Please describe the bug and how to replicate it, please include steps and screen
 
 
 ## [Track the project with our public board](https://github.com/XhailOrigin/emmVRC-Public/projects/1 "Project board")
-[Click here to view the board](https://github.com/XhailOrigin/emmVRC-Public/projects/1 "Project board")
