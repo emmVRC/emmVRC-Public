@@ -10,7 +10,7 @@ Please using the following format
 
 ![issues request format](https://i.imgur.com/ef3madS.png)
 ### Title
-[FEATURE REQUEST] OR [ISSUE] Title of the feature or issue
+[FEATURE] OR [ISSUE] Title of the feature or issue
 
 ### Description 
 Please be descriptive of how the feature would work and what it will do
