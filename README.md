@@ -1,9 +1,9 @@
 # emmVRC Feature Requests and Bug Reports
 Request features, submit issues and check development status
 
-### [SUBMIT A FEATURE OR ISSUE](https://github.com/emmVRC/emmVRC-Public/issues "Issue and Feature Requests")
+### [SUBMIT A FEATURE OR BUG REPORT HERE](https://github.com/emmVRC/emmVRC-Public/issues "Issue and Feature Requests")
 
-Please open an issue request [HERE](https://github.com/emmVRC/emmVRC-Public/issues "Issue and Feature Requests")
+After clicking the above text, click the "New issue" button to open a new submission.
 ![issues button](https://i.imgur.com/YIGGwH3.png)
 
 Please use the following format
