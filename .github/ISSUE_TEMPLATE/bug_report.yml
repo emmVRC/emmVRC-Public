@@ -1,0 +1,53 @@
+name: Bug Report
+description: Create a report to help us improve
+title: "[BUG REPORT]: <title>"
+labels: ["bug"]
+assignees: []
+body:
+  - type: dropdown
+    id: logdiscord
+    attributes:
+      label: Have you uploaded your log to our Discord?
+      description: "[emmVRC Discord](https://discord.gg/emmvrc)"
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true
+  - type: textarea
+    id: bug
+    attributes:
+      label: Describe the bug
+      description: A clear and concise description of what the bug is.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: To Reproduce
+      description: "Steps to reproduce the behavior:"
+      placeholder: "1. Go to '...'\n2. Click on '....'\n3. Scroll down to '....'\n4. See error"
+    validations:
+      required: true
+  - type: textarea
+    id: behavior
+    attributes:
+      label: Expected behavior
+      description: A clear and concise description of what you expected to happen.
+    validations:
+      required: true
+  - type: textarea
+    id: log
+    attributes:
+      label: Screenshots/Logs
+      description: If applicable, add screenshots/logs to help explain your problem.
+      placeholder: Do not paste content of log or console, instead upload `VRChat\MelonLoader\Latest.log`
+    validations:
+      required: false
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional context
+      description: Add any other context about the problem here.
+    validations:
+      required: false
